@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['curuk', 'salkim', 'sap', 'yaprak']
+
+roboflow:
+  workspace: kocaeli-university-vc3lc
+  project: uzum-iyr9p
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kocaeli-university-vc3lc/uzum-iyr9p/dataset/1
