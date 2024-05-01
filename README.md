@@ -20,3 +20,8 @@ Install the required Python libraries using pip:
 
 bash
 pip install opencv-python-headless ultralytics
+
+
+Example
+
+<img src="https://github.com/BarisFK/Uzum_YOLO8/assets/92215497/3df85b15-08d0-4832-a7a4-d246d709a2c7" alt="Örnek" style="width:600px;height:800px;">
