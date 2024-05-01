@@ -1,6 +1,6 @@
 # Grape Detection Computer Vision Project
 
-This computer vision project is designed to detect and analyze grape bunches, bruises, stems, and leaves using the YOLOv8 model. The project includes several Python scripts that utilize OpenCV and the Ultralytics YOLO implementation for real-time image processing and object detection.
+This computer vision project utilizes the YOLOv8 model to detect and analyze grape bunches, bruises, stems, and leaves. The model was trained on a custom dataset I curated, which included annotated images of grape-related objects. Through iterative training, the model's weights were fine-tuned to improve its accuracy. Future work may involve expanding the dataset and fine-tuning the model architecture for enhanced performance.
 
 ## Project Structure
 
