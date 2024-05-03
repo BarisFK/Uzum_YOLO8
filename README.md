@@ -4,7 +4,7 @@ This computer vision project utilizes the YOLOv8 model to detect and analyze gra
 
 ## Project Structure
 
-- testLive.py - This script uses a webcam to perform real-time detection of objects. It visualizes the detection results on each frame captured from the webcam.
+- testCanli.py - This script uses a webcam to perform real-time detection of objects. It visualizes the detection results on each frame captured from the webcam.
 - testKoordinat.py - Focuses on detecting specific classes (in this case, grape bunches) and prints their coordinates on the screen.
 - testMerkezNokta.py - Draws a rectangle and a center point on a static image to illustrate object detection results.
 
